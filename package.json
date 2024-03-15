@@ -33,7 +33,6 @@
     "color-hash": "^2.0.2",
     "color-name-list": "^10.19.0",
     "cors": "^2.8.5",
-    "embetty-vue": "^2.0.1",
     "jszip": "^3.10.1",
     "node-env-file": "^0.1.8",
     "sanitize-filename": "^1.6.3",
